@@ -1,0 +1,4 @@
+com/example/springbootmongodbtransaction/space/SpaceShipServiceTest.java
+ com.example.springbootmongodbtransaction.space.SpaceShipServiceTest
+com/example/springbootmongodbtransaction/SpringbootMongodbTransactionApplicationTests.java
+ com.example.springbootmongodbtransaction.SpringbootMongodbTransactionApplicationTests

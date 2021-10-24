@@ -1,0 +1,10 @@
+com/example/springbootmongodbtransaction/space/SpaceShip.java
+ com.example.springbootmongodbtransaction.space.SpaceShip
+com/example/springbootmongodbtransaction/space/SpaceShipService.java
+ com.example.springbootmongodbtransaction.space.SpaceShipService
+com/example/springbootmongodbtransaction/space/MongoConfig.java
+ com.example.springbootmongodbtransaction.space.MongoConfig
+com/example/springbootmongodbtransaction/SpringbootMongodbTransactionApplication.java
+ com.example.springbootmongodbtransaction.SpringbootMongodbTransactionApplication
+com/example/springbootmongodbtransaction/space/SpaceShipRepository.java
+ com.example.springbootmongodbtransaction.space.SpaceShipRepository
